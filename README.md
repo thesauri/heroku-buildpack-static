@@ -1,3 +1,5 @@
+Reasoning for this madness: https://github.com/Teknologforeningen/vision.tf.fi/commit/fa6b22681d5f9ecb389ec2e8693d00367d63804b
+
 # heroku-buildpack-static
 **NOTE**: This buildpack is in an experimental OSS project.
 
